@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-   </head>
+   
+  </head>
   <body>
     <header>
       <img src="https://randomuser.me/api/portraits/women/52.jpg" alt="Foto de Terri Richardson">
